@@ -8,19 +8,48 @@ Explain the problem statement.
 
 ## POLICY ITERATION ALGORITHM
 Include the steps involved in policy iteration algorithm
+</br>
+</br>
 
 ## POLICY IMPROVEMENT FUNCTION
 ### Name
 ### Register Number
+```python
 Include the policy improvement function
 
+
+
+
+
+
+
+```
 ## POLICY ITERATION FUNCTION
 ### Name
 ### Register Number
+```python
 Include the policy iteration function
 
+
+
+
+
+
+```
+
 ## OUTPUT:
-Mention the optimal policy, optimal value function , success rate for the optimal policy.
+### 1. Policy, Value function and success rate for the Adversarial Policy
+</br>
+</br>
+
+### 2. Policy, Value function and success rate for the Improved Policy
+</br>
+</br>
+
+### 3. Policy, Value function and success rate after policy iteration
+</br>
+</br>
+
 
 ## RESULT:
 
