@@ -70,9 +70,10 @@ def policy_iteration(P, gamma=1.0, theta=1e-10):
 
 
 ### 3. Policy, Value function and success rate after policy iteration
-![image](https://github.com/user-attachments/assets/6810f270-4b40-40ec-9aba-c21bcdc6cd04)
-![image](https://github.com/user-attachments/assets/3625bf98-91a6-4266-b5cd-0db4c8dcf457)
-![image](https://github.com/user-attachments/assets/a948f20b-f375-434e-9588-163ce95296ed)
+
+![image](https://github.com/user-attachments/assets/0beb2599-9bf8-4865-9a75-61232606ad4e)
+![image](https://github.com/user-attachments/assets/3c30596b-93c1-440e-b798-18a8e4560049)
+![image](https://github.com/user-attachments/assets/1cb669ca-43b4-417f-bb57-af7fb8e891cc)
 
 
 
